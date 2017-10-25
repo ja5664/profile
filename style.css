@@ -1,0 +1,171 @@
+body {
+  background-color: #F0F5F9;
+  font-family: 'Fauna One', serif;
+  color: #52616B;
+  font-size: 12;
+  line-height 10px:
+}
+
+p {
+  font-family: 'Fauna One', serif;
+  font-size: 12;
+  line-height 10px:
+}
+
+h1,h2,h3 {
+  font-family: 'Playfair Display', serif;
+  line-height 32px:
+  letter-spacing 20;
+  color: #1E2022;
+  font-size: 20;
+}
+
+h1 {
+  font-size: 32;
+  margin: 10px;
+}
+
+h2 {
+  line-height 20px:
+}
+
+h3 {
+  font-size: 18px;
+}
+
+a {
+  color: #52616B;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+@media (max-width: 1500px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 800px;
+  }
+}
+@media (max-width: 1000px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 400px;
+  }
+}
+
+.container {
+  /*width: 900px; */  /* This sets the width */
+  margin: auto; /* This automatically sets left/right margins */
+  background-color: white
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #F0F5F9;
+}
+
+.card {
+  margin: 10px 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px solid #C9D6DF;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+  background-color: white;
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-150px {
+  height: 150px;
+  width: 150px;
+}
+
+.img-90px {
+  height: 90px;
+  width: 90px;
+  border-radius: 15px;
+}
+
+.img-center {
+  display: block;
+  margin: auto;
+}
+
+.img-right-indent{
+  display: block;
+  padding: 10px;
+}
+
+.img-shadow {
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+}
+
+.card-text-center {
+  text-align: center;
+}
+
+.card-first {
+  padding-bottom: 30px;
+}
+
+.card-second {
+  padding: 0px;
+}
+
+.list-no-bullet-points {
+  padding-left: 0;
+  list-style: none;
+}
+
+.list-in-line {
+  display: inline-block;
+  padding: 5px 50px;
+}
+
+.btn-blue {
+  background-color: #52616B;
+  border-radius: 5px;
+  padding: 10px;
+  color:  white;
+  text-decoration: none;
+}
+
+.favorite-films {
+  margin: 10px;
+  font-size: 25;
+}
+
+.film-description {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+}
+
+.film-title {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+
+.movie {
+  margin: 30px;
+}
+
+
+
+
+
+
+
+
+
