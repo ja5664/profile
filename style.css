@@ -3,19 +3,19 @@ body {
   font-family: 'Fauna One', serif;
   color: #52616B;
   font-size: 12px;
-  line-height: 10px;
+/*  line-height: 10px;*/
 }
 
 p {
   font-family: 'Fauna One', serif;
   font-size: 12px;
-  line-height: 10px;
+/*  line-height: 10px;*/
 }
 
 h1,h2,h3 {
   font-family: 'Playfair Display', serif;
-  line-height: 32px;
-  letter-spacing: 20px;
+/*  line-height: 32px;*/
+/*  letter-spacing: 20px;*/
   color: #1E2022;
   font-size: 20px;
 }
@@ -26,7 +26,7 @@ h1 {
 }
 
 h2 {
-  line-height: 20px:
+/*  line-height: 20px:*/
 }
 
 h3 {
